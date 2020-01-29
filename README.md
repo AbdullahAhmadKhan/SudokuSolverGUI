@@ -13,7 +13,7 @@ Language: Python3
 Frameworks: Pygame
 
 # Features
-The user can pencil in values by just clicking on a box and typing the desired number.
+The user can pencil in values by just clicking a box and typing the desired number.
 
 In order to submit a pencilled value, the user has to select the desired box and hit the enter key. 
 If the value is correct, the displayed number will turn black, else the value will remain gray and the user can type in
