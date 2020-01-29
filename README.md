@@ -3,9 +3,9 @@
 A GUI and console-based version of sodoku with a built-in solver.
 
 # Screenshots
-![Capture](https://user-images.githubusercontent.com/45553812/73396864-52b06700-42f3-11ea-9fca-24ab5c53d464.PNG)
+![Capture](https://user-images.githubusercontent.com/45553812/73399185-d9ffd980-42f7-11ea-9cfd-ccdfdabde8f7.PNG)
 
-![Capture_1](https://user-images.githubusercontent.com/45553812/73396891-61971980-42f3-11ea-867d-5227d6c3d850.PNG)
+![Capture_1](https://user-images.githubusercontent.com/45553812/73399176-d79d7f80-42f7-11ea-9be5-298d6d5f4cc2.PNG)
 
 # Tech Used
 Language: Python3
